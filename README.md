@@ -1,9 +1,9 @@
 # Debian 10 (Stretch) Base Image
 
-![](https://img.shields.io/docker/cloud/build/pandemonium1986/debian9)
-![](https://img.shields.io/github/release/Pandemonium1986/docker-debian9)
-![](https://img.shields.io/github/release-date/Pandemonium1986/docker-debian9)
-![](https://img.shields.io/github/license/Pandemonium1986/docker-debian9)
+![](https://img.shields.io/docker/cloud/build/pandemonium1986/debian10)
+![](https://img.shields.io/github/release/Pandemonium1986/docker-debian10)
+![](https://img.shields.io/github/release-date/Pandemonium1986/docker-debian10)
+![](https://img.shields.io/github/license/Pandemonium1986/docker-debian10)
 
 Debian 10 (Stretch) docker image. Built to be like my vagrant box to be able to test Ansible playbooks and roles.
 
@@ -23,7 +23,7 @@ This image is built on Docker Hub automatically any time the upstream OS contain
 
 1.  [Install Docker](https://docs.docker.com/engine/installation/).
 2.  Pull this image from Docker Hub: `docker pull pandemonium1986/debian10:latest` (or use the image you built earlier, e.g. `localhost/debian10:test`).
-3.  Run a container from the image: `docker run --detach --privileged --name debian9-pdm-hub pandemonium1986/debian10:latest`.
+3.  Run a container from the image: `docker run --detach --privileged --name debian10-pdm-hub pandemonium1986/debian10:latest`.
 
 ## Author Information
 

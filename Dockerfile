@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:buster
 LABEL maintainer="Michael Maffait"
 
 ENV DEBIAN_FRONTEND noninteractive

@@ -1,11 +1,11 @@
-# Debian 10 (Stretch) Base Image
+# Debian 10 (Buster) Base Image
 
 ![](https://img.shields.io/docker/cloud/build/pandemonium1986/debian10)
 ![](https://img.shields.io/github/release/Pandemonium1986/docker-debian10)
 ![](https://img.shields.io/github/release-date/Pandemonium1986/docker-debian10)
 ![](https://img.shields.io/github/license/Pandemonium1986/docker-debian10)
 
-Debian 10 (Stretch) docker image. Built to be like my vagrant box to be able to test Ansible playbooks and roles.
+Debian 10 (Buster) docker image. Built to be like my vagrant box to be able to test Ansible playbooks and roles.
 
 ## Tags
 
